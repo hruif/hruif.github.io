@@ -9,6 +9,7 @@ A lightweight static personal website for Rui Fan.
 - News Article Merger: <https://hruif-news-article-merger.hf.space/>
 - Access Journal: <https://accessjournal.pages.dev/>
 - Mimsy: <https://mimsy.pages.dev/>
+- TidyExit: <https://tidyexit.pages.dev/>
 
 This repo is the navigation hub. Each project keeps its own canonical project
 page and release/download details.
